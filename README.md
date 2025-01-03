@@ -4,7 +4,8 @@
 
 ---
 
-Welcome to the future home of **Constellation**, a groundbreaking project that aims to redefine the boundaries of 3D data visualization, spatial computing, and immersive experiences. While this repository is still a work in progress, it serves as the foundation for a vision that will integrate cutting-edge technologies into a cohesive, developer-friendly framework for the open Metaverse.
+Welcome to the future home of **Constellation**, a collaboration between the Academy of Immersive Arts and Sciences and Metaverse Standards Forum to create an immersive 3D visualization appliction to navigate the complex landscape of standards, starting with GeoSpatial Standards, tne  expanding to all immersive standards and eventually will serve as a foundation to Wiki3dia.org.
+
 
 ## **Mission**
 Constellation is dedicated to:
