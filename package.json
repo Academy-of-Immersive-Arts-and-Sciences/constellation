@@ -1,0 +1,23 @@
+{
+  "name": "constellation",
+  "version": "1.0.0",
+  "description": "Because it will take a CONSTELLATION of standards to acheive the open Metaverse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write .",
+    "lint": "eslint .",
+    "start:core": "node packages/core/index.js",
+    "start:web3d": "node packages/web3d/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
